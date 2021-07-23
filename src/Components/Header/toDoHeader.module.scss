@@ -1,0 +1,17 @@
+.container {
+    width: 100%;
+    // background-color: red;
+    position: absolute;
+    top: 40px;
+    border-bottom: 1px solid lightblue;
+}
+
+.year,
+.day,
+.restWork {
+    margin-left: 30px;
+}
+
+.restWork {
+    color: skyblue;
+}
